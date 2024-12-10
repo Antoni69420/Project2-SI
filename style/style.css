@@ -1,0 +1,12 @@
+:root {
+  --font-body: "Poppins", sans-serif;
+  --color-background: #fff;
+  --color-border: rgb(227, 227, 227);
+  --color-placeholder: #aaa;
+  --color-highlight: orange;
+  --color-shadow: rgba(0, 0, 0, 0.1);
+  --color-shadow-light: rgba(0, 0, 0, 0.06);
+  --color-light-background: #f1f1f1;
+  --color-search-background: #fefefe;
+  --color-search-border: #ccc;
+}
